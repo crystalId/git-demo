@@ -7,5 +7,5 @@ Hello World! Hello Git!
 Hello World! Hello Git!
 Hello World! Hello Git!
 Hello World! Hello Git!
-Hello World! Hello Git!
+Hello World! Hello Git!  hot-fix test!
 Hello World! Hello Git!
